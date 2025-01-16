@@ -1,4 +1,4 @@
-<h1 align="center>👋 Hi, I'm Jason McCauley</h1>
+<h1 align="center">👋 Hi, I'm Jason McCauley</h1>
 
 # 🎓 About Me
 I am a fourth-year software engineering student at Stevens Institute of Technology, combining machine learning expertise with full-stack development to build innovative, scalable applications with meaningful real-world impact.
@@ -8,7 +8,7 @@ I am a fourth-year software engineering student at Stevens Institute of Technolo
 - 🧠 Advancing ML research in molecular simulation analysis with Python and scikit-learn
 - 🎮 Building real-time multiplayer applications with NodeJS and MongoDB
 
-Check out my coding portfolio!
+Check out my [coding portfolio!](https://jmccauley-portfolio.vercel.app/)
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jsonmccauley/)
