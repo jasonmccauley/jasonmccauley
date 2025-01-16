@@ -4,6 +4,7 @@
 I am a fourth-year software engineering student at Stevens Institute of Technology, combining machine learning expertise with full-stack development to build innovative, scalable applications with meaningful real-world impact.
 
 ## 🚀 What I'm Up To
+
 - 🧠 Advancing ML research in molecular simulation analysis with Python and scikit-learn
 - 🎮 Building real-time multiplayer applications with NodeJS and MongoDB
 
