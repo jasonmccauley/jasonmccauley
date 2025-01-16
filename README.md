@@ -8,7 +8,7 @@ I am a fourth-year software engineering student at Stevens Institute of Technolo
 - 🧠 Advancing ML research in molecular simulation analysis with Python and scikit-learn
 - 🎮 Building real-time multiplayer applications with NodeJS and MongoDB
 
-Check out my [coding portfolio!](https://jmccauley-portfolio.vercel.app/)
+Check out my coding portfolio!
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jsonmccauley/)
