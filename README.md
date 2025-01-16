@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Jason McCauley</h1>
 
-## 🎓 About Me
+# 🎓 About Me
 I am a fourth-year software engineering student at Stevens Institute of Technology, combining machine learning expertise with full-stack development to build innovative, scalable applications with meaningful real-world impact.
 
 ## 🚀 What I'm Up To
@@ -13,7 +13,7 @@ Check out my [coding portfolio!](https://jmccauley-portfolio.vercel.app/)
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jsonmccauley/)
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
